@@ -1,0 +1,24 @@
+{
+  "name": "CringeCoin",
+  "symbol": "CRNG",
+  "description": "So cringe, it's cool. The meta-meme token of the CringeCrew cult.",
+  "image": "https://github.com/gooseNjuice/cringecoin.github.io/blob/main/01058976-1f49-4979-8cf1-482a379c63db.png",
+  "seller_fee_basis_points": 0,
+  "attributes": [],
+  "collection": null,
+  "properties": {
+    "files": [
+      {
+        "uri": "https://github.com/gooseNjuice/cringecoin.github.io/blob/main/01058976-1f49-4979-8cf1-482a379c63db.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "5uESkTEgaPYT48KYANjKfaaEsHoopWNe6vqt5Sdbo7WM",
+        "share": 100
+      }
+    ]
+  }
+}
